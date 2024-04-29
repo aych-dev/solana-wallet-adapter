@@ -24,4 +24,4 @@ npm install --save \
     @solana/web3.js \
     react
 ```
-<center>![Example Image](public/exampleimage.png)</center>
+![Wallet Example](public/exampleimage.png)
