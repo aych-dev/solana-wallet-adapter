@@ -1,1 +1,1 @@
-# Solana Wallet Adapter in Next.js with App Router
+# Solana Wallet Adapter in Next.js via App Router
