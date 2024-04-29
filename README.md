@@ -6,5 +6,10 @@ Simple and easy way to implement your solana wallet into your next.js applicatio
 
 #### Clone This Repo 
 ```shell
-git clone 
+git clone https://github.com/aych-dev/solana-wallet-adapter.git
+```
+
+#### Open Your App and Install All Dependencies
+```shell
+npm install
 ```
