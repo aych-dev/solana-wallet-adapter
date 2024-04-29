@@ -1,6 +1,6 @@
 # Solana Wallet Adapter in Next.js via App Router
 
-###Install These Dependencies First
+### Install These Dependencies First
 ```shell
 npm install --save \
     @solana/wallet-adapter-base \
